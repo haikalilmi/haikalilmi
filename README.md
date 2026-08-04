@@ -1,67 +1,102 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Haikal_Ilmi_Akmal_Rahman-a855f7?style=for-the-badge&logoColor=white" alt="Haikal Ilmi Akmal Rahman">
-</p>
+<pre align="center">
 
-<p align="center">
-  Broad IT Enthusiast · AI-assisted Coding · Multimedia & Live Streaming<br>
-  Surabaya, Jawa Timur, Indonesia
-</p>
+  > boot: haikal_ilmi profile v2.0
+  > memuat profil haikal_ilmi ...
+  > 10 modul dimuat — status: OPEN_TO_COLLAB
 
-<p align="center">
-  <a href="https://instagram.com/haikal_ilmi">
-    <img src="https://img.shields.io/badge/Instagram-haikal_ilmi-161B22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+</pre>
 
----
+```text
+HAIKAL ILMI AKMAL RAHMAN
+AUTOMATION ENGINEER · CREATIVE TECHNOLOGIST
+SCROLLING_SYS = True | AUTOMATION = True | STATUS = open_to_collab
+```
 
-## About Me
+Praktisi IT dan Multimedia yang fokus pada **Software Engineering**, **Automation**, **Artificial Intelligence**, **Cloud Infrastructure**, serta **Digital Multimedia Production**. Terbiasa mengerjakan proyek secara end-to-end — dari analisis kebutuhan, perancangan sistem, pengembangan, hingga deployment cloud.
 
-IT generalist with a broad understanding of the field, beyond just coding. I build software with AI-assisted tools, and my hands-on side comes from a multimedia organization where I worked live streaming and on-field production.
-
-- Broad IT foundation — from infrastructure to applications
-- AI-assisted development as a daily workflow
-- Multimedia & broadcast: photography, video, live streaming
+- Punya 10 modul kompetensi aktif — dari software engineering sampai cybersecurity awareness.
+- Automation-oriented: kalau ada kerjaan repetitif, saya buatakan script-nya.
+- AI-assisted workflow: AI bukan cuma tools, tapi bagian dari sistem.
 
 ---
 
-## Skills
+## LANDASAN TEKNIK
 
-### AI-Assisted Coding
-
-![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge)
-![OpenCode](https://img.shields.io/badge/OpenCode-161B22?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge)
-
-### Multimedia & Live Streaming
-
-![Photography](https://img.shields.io/badge/Photography-161B22?style=for-the-badge)
-![Video](https://img.shields.io/badge/Video-161B22?style=for-the-badge)
-![Broadcast](https://img.shields.io/badge/Broadcast-161B22?style=for-the-badge)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-161B22?style=for-the-badge&logo=obsstudio&logoColor=white)
-![vMix](https://img.shields.io/badge/vMix-161B22?style=for-the-badge)
-
-### IT & Networking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,bash,powershell&perline=7" alt="IT & Networking Tools">
-</p>
+```text
+FULL_STACK  = React · Next.js · TypeScript · Tailwind · PHP · Express · FastAPI · Python
+DATABASE    = PostgreSQL · Supabase · Prisma ORM
+AUTOMATION  = Python · Lua · ADB · Telegram Bot · OBS · CI/CD · Git & GitHub
+AI_TERRAIN  = API AI Integration · Multi-AI Workflow · Pipeline Design
+MEDIA       = Graphic Design · Video Editing · Stream Ops · UI/UX
+```
 
 ---
 
-## GitHub Stats
+## FOKUS UTAMA
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalilmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="390" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalilmi&theme=radical&hide_border=true&bg_color=0d1117&layout=compact" width="390" height="165" alt="Top Languages">
-</p>
+- Software Engineering · Automation · AI Integration · Cloud · Multimedia
+- Efisiensi melalui otomatisasi dan sistem yang scalable.
+- Pengembangan end-to-end dengan kualitas UI/UX yang diperhatikan.
 
 ---
 
-<p align="center">
-  Let's connect on <a href="https://instagram.com/haikal_ilmi">Instagram</a>
-</p>
+## PROYEK TERPILIH
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=haikalilmi&label=Visitors&labelColor=%230d1117&countColor=%23a855f7" alt="Visitors">
-</p>
+<details>
+<summary>buka daftar proyek (_9 unit_)</summary>
+
+| ID   | Proyek                            | Deskripsi                                              |
+| ---- | --------------------------------- | ------------------------------------------------------ |
+| PJ-01| AI Content Generator              | Pipeline generasi konten multi-AI.                     |
+| PJ-02| Telegram Finance Bot              | Pencatatan & analisis keuangan otomatis.               |
+| PJ-03| OBS Broadcast Controller          | Kontrol siaran OBS berbasis Lua.                       |
+| PJ-04| Smart Home Controller             | Kontrol perangkat rumah Android & IoT.                 |
+| PJ-05| Growtopia Market Analytics        | Analisis pasar & harga item otomatis.                  |
+| PJ-06| Minecraft Server Infrastructure   | Setup, otomasi, optimasi server.                       |
+| PJ-07| Multimedia Branding Project       | Branding visual untuk klien.                           |
+| PJ-08| Company Profile Design            | Desain profil perusahaan.                              |
+| PJ-09| School Event Multimedia System    | Sistem multimedia pendukung acara.                     |
+
+</details>
+
+---
+
+## KOMPETENSI
+
+<details>
+<summary>buka 10 modul kompetensi</summary>
+
+```text
+MOD-01 Software Engineering & App Development
+MOD-02 Automation Engineering
+MOD-03 Artificial Intelligence Integration
+MOD-04 Cloud & DevOps
+MOD-05 Database Engineering
+MOD-06 IoT & Embedded Applications
+MOD-07 Multimedia & Creative Production
+MOD-08 UI / UX Design
+MOD-09 QA & Technical Analysis
+MOD-10 Cybersecurity Awareness
+```
+
+</details>
+
+---
+
+## AKSES
+
+```text
+SITE      -> https://about-haikal.netlify.app
+GITHUB    -> github.com/haikalilmi
+INSTAGRAM -> @haikal_ilmi
+MAIL      -> cicocecu [at] gmail [dot] com
+LOCATION  -> Indonesia
+```
+
+Kolaborasi & proyek terbuka. Kirim sinyal.
+
+---
+
+```text
+© 2026 HAIKAL ILMI — BUILD OK
+```
