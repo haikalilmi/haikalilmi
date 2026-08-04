@@ -36,7 +36,7 @@ Praktisi IT dan Multimedia. Fokus utama: software engineering, automation, artif
 - Full-stack development dan automation
 - Desain dan produksi multimedia
 - Dasar cybersecurity awareness
-- Berdasarkan di Indonesia
+- Surabaya, Jawa Timur, Indonesia
 
 </td>
 </tr>
@@ -131,5 +131,5 @@ Praktisi IT dan Multimedia. Fokus utama: software engineering, automation, artif
 
 <p align="center">
   Kolaborasi dan proyek terbuka. Kirim sinyal kapan saja.<br/>
-  <sub>© 2026 Haikal Ilmi · Built with Next.js · Hosted on Netlify</sub>
+  <sub>© 2026 Haikal Ilmi</sub>
 </p>
