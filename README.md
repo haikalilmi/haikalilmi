@@ -1,4 +1,6 @@
-<h1 align="center">Haikal Ilmi Akmal Rahman</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Haikal_Ilmi_Akmal_Rahman-a855f7?style=for-the-badge&logoColor=white" alt="Haikal Ilmi Akmal Rahman">
+</p>
 
 <p align="center">
   Broad IT Enthusiast · AI-assisted Coding · Multimedia & Live Streaming<br>
@@ -17,33 +19,33 @@
 
 IT generalist with a broad understanding of the field, beyond just coding. I build software with AI-assisted tools, and my hands-on side comes from a multimedia organization where I worked live streaming and on-field production.
 
+- Broad IT foundation — from infrastructure to applications
+- AI-assisted development as a daily workflow
+- Multimedia & broadcast: photography, video, live streaming
+
 ---
 
-## What I Do
+## Skills
 
-**AI-Assisted Coding**
+### AI-Assisted Coding
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-161B22?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge)
 
-**Multimedia**
+### Multimedia & Live Streaming
 
 ![Photography](https://img.shields.io/badge/Photography-161B22?style=for-the-badge)
 ![Video](https://img.shields.io/badge/Video-161B22?style=for-the-badge)
 ![Broadcast](https://img.shields.io/badge/Broadcast-161B22?style=for-the-badge)
-
-**Live Streaming**
-
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-161B22?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![vMix](https://img.shields.io/badge/vMix-161B22?style=for-the-badge)
 
-**IT & Networking**
+### IT & Networking
 
-![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,bash,powershell&perline=7" alt="IT & Networking Tools">
+</p>
 
 ---
 
