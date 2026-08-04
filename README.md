@@ -20,23 +20,23 @@
 <tr>
 <td width="60%">
 
-Praktisi IT dan Multimedia yang fokus pada **Software Engineering**, **Automation**, **Artificial Intelligence**, **Cloud Infrastructure**, dan **Digital Multimedia Production**. Terbiasa mengerjakan proyek secara end-to-end — dari analisis kebutuhan, perancangan sistem, pengembangan, hingga deployment cloud.
+Praktisi IT dan Multimedia. Fokus utama: software engineering, automation, artificial intelligence, cloud infrastructure, dan produksi multimedia digital. Saya mengerjakan proyek secara utuh, dari analisis kebutuhan, perancangan sistem, pengembangan, sampai deployment cloud.
 
-- Automation-oriented — pekerjaan repetitif selalu bisa dibuatkan script-nya.
-- AI-assisted workflow — AI bukan hanya alat, tapi bagian dari sistem yang saya bangun.
-- Perhatian pada detail UI/UX, bukan hanya "jalan".
+- Pekerjaan yang berulang saya ubah menjadi script supaya lebih cepat.
+- AI saya pakai sekaligus integrasikan ke sistem yang saya bangun.
+- Suka detail. Tampilan diperhatikan, bukan sebatas "jalan".
 
 </td>
 <td width="40%">
 
 **Quick Facts**
 
-- 🎯 10 modul kompetensi aktif
-- 📦 9 proyek dikirim
-- ⚙️ Full-stack + automation
-- 🎨 Desain & multimedia produksi
-- 🔐 Cybersecurity awareness
-- 🇮🇩 Berbasis di Indonesia
+- 10 modul kompetensi aktif
+- 9 proyek sudah dikirim
+- Full-stack development dan automation
+- Desain dan produksi multimedia
+- Dasar cybersecurity awareness
+- Berdasarkan di Indonesia
 
 </td>
 </tr>
@@ -130,6 +130,6 @@ Praktisi IT dan Multimedia yang fokus pada **Software Engineering**, **Automatio
 ---
 
 <p align="center">
-  <strong>Kolaborasi & proyek terbuka — kirim sinyal kapan saja.</strong><br/>
+  Kolaborasi dan proyek terbuka. Kirim sinyal kapan saja.<br/>
   <sub>© 2026 Haikal Ilmi · Built with Next.js · Hosted on Netlify</sub>
 </p>
