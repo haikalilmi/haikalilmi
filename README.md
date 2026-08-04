@@ -3,13 +3,8 @@ $ whoami
 ```
 
 <h1 align="center">
-  Haikal Ilmi Akmal Rahman
+  <span style="color:#a855f7">Haikal Ilmi</span> Akmal Rahman
 </h1>
-
-<p align="center">
-  <em>Broad IT Enthusiast · AI-assisted Coding · Multimedia & Live Streaming</em><br>
-  📍 Surabaya, Jawa Timur, Indonesia
-</p>
 
 <p align="center">
   <a href="https://instagram.com/haikal_ilmi">
@@ -19,26 +14,43 @@ $ whoami
 
 ---
 
-## 🧰 What I Do
+```text
+$ cat ~/.profile
+broad it enthusiast · ai-assisted coding · multimedia · live streaming
+on-field production · surabaya, jawa timur, indonesia
+```
 
-**🤖 AI-Assisted Coding**
+```text
+$ cat about.txt
+IT generalist with a broad understanding of the field, beyond just coding.
+I build with AI-assisted tools, and my hands-on side comes from a multimedia
+organization where I worked live streaming and on-field production.
+```
+
+---
+
+```text
+$ ls skills/
+```
+
+**`[ ai-assist ]`**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-161B22?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge)
 
-**🎨 Multimedia**
+**`[ multimedia ]`**
 
 ![Photography](https://img.shields.io/badge/Photography-161B22?style=for-the-badge)
 ![Video](https://img.shields.io/badge/Video-161B22?style=for-the-badge)
 ![Broadcast](https://img.shields.io/badge/Broadcast-161B22?style=for-the-badge)
 
-**📡 Live Streaming**
+**`[ streaming ]`**
 
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-161B22?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![vMix](https://img.shields.io/badge/vMix-161B22?style=for-the-badge)
 
-**🖥️ IT & Networking**
+**`[ it & networking ]`**
 
 ![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=white)
@@ -47,7 +59,9 @@ $ whoami
 
 ---
 
-## 📊 GitHub Stats
+```text
+$ ls stats/
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haikalilmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="390" height="165" alt="GitHub Stats">
@@ -56,9 +70,12 @@ $ whoami
 
 ---
 
-<p align="center">
-  Let's connect &nbsp;·&nbsp; <a href="https://instagram.com/haikal_ilmi">Instagram</a>
-</p>
+```text
+$ cat contact.txt
+instagram : https://instagram.com/haikal_ilmi
+
+$ exit
+```
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=haikalilmi&label=Visitors&labelColor=%230d1117&countColor=%23a855f7" alt="Visitors">
